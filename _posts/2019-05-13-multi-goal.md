@@ -14,7 +14,7 @@ Author: Ryan Brigden (rbrigden@cmu.edu)
 
 A current trend in continuous control is to develop model-agnostic learning algorithms that can 
 
-$\sum$
+$$\sum$$
 
 ## Preliminaries
 
