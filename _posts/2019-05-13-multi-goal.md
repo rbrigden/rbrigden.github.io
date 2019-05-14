@@ -1,10 +1,44 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Goal-Conditional Policy Gradients"
 ---
 
-# Welcome
+# Goal-Conditional Policy Gradients
 
-**Hello world**, this is my first Jekyll blog post.
+Course project for 16-745: Optimal Control and Reinforcement Learning
 
-I hope you like it!
+Author: Ryan Brigden (rbrigden@cmu.edu)
+
+
+## Introduction
+
+A current trend in continuous control is to develop model-agnostic learning algorithms that can 
+
+$\sum$
+
+## Preliminaries
+
+### Problems with Reward Specification
+
+### Motivating Sparse Rewards
+
+### Policy Gradient Methods
+
+#### REINFORCE
+
+
+#### Advantange Actor Critic
+ 
+
+## Methods
+
+### 
+
+
+## Results
+
+
+## Discussion
+
+
+
