@@ -10,7 +10,7 @@ title: Ryan Brigden
 email: your-email@domain.com
 description: > # my site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ryanb.xyz" # the base hostname & protocol for your site
+url: "http://rbrigden.github.io" # the base hostname & protocol for your site
 twitter_username: rbrigden
 github_username:  rbrigden
 
