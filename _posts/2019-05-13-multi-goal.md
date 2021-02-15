@@ -3,8 +3,6 @@ layout: post
 title:  "Goal-Conditional Policy Gradients"
 ---
 
-##### _16-745: Optimal Control and Reinforcement Learning_
-
 ###### Author: Ryan Brigden (rbrigden at cmu dot edu)
 ###### Project Code: [github.com/rbrigden](https://github.com/rbrigden/multi-goal)
 
